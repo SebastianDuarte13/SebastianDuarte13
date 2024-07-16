@@ -1,8 +1,9 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-
+<hr>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sebastian+Duarte;" />
+<hr>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
 
